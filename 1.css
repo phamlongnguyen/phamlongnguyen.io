@@ -1,0 +1,10 @@
+*{margin: 0;padding: 0;}
+.tennguyen{
+	width: 960px;
+	height: 200px;
+	margin: auto;
+	text-align: center;
+	color: brown;
+	font-family: sans-serif;
+	font-weight: bolder;
+}
